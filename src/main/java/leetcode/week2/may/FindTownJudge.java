@@ -1,5 +1,6 @@
 package leetcode.week2.may;
 
+import leetcode.util.annotation.InProgress;
 import org.junit.Test;
 
 import java.util.*;
@@ -7,10 +8,8 @@ import java.util.*;
 import static org.hamcrest.CoreMatchers.is;
 import static org.junit.Assert.assertThat;
 
-/**
-  * In Progress..
-  */
 //https://leetcode.com/explore/challenge/card/may-leetcoding-challenge/535/week-2-may-8th-may-14th/3325/
+@InProgress
 public class FindTownJudge {
 
     public static void main(String[] args) {
