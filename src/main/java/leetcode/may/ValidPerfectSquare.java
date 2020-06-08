@@ -1,9 +1,4 @@
-package leetcode.week2.may;
-
-import java.util.Arrays;
-import java.util.Collections;
-import java.util.HashSet;
-import java.util.Set;
+package leetcode.may;
 
 /**
  *  양의 정수 num이 주어졌을 때, num이 완전한 정사각형이라면 true를, 아니라면 false를 반환하시오.

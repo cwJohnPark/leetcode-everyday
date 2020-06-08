@@ -1,7 +1,4 @@
-package leetcode.week2.may;
-
-import java.util.HashSet;
-import java.util.Set;
+package leetcode.may;
 
 import static org.hamcrest.CoreMatchers.is;
 import static org.junit.Assert.assertThat;

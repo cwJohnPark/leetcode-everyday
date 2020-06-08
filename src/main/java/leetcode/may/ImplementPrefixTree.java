@@ -1,10 +1,8 @@
-package leetcode.week2.may;
+package leetcode.may;
 
 import leetcode.util.annotation.InProgress;
 
-import java.util.ArrayList;
 import java.util.HashMap;
-import java.util.List;
 import java.util.Map;
 
 @InProgress

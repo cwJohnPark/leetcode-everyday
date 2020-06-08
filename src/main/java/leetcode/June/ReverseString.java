@@ -1,4 +1,4 @@
-package leetcode.week2.June;
+package leetcode.June;
 
 // https://leetcode.com/explore/featured/card/june-leetcoding-challenge/539/week-1-june-1st-june-7th/3350/
 public class ReverseString {

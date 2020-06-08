@@ -1,4 +1,4 @@
-package leetcode.week2.may;
+package leetcode.may;
 
 import leetcode.util.annotation.InProgress;
 import org.junit.Test;

@@ -1,10 +1,9 @@
-package leetcode.week2.may;
+package leetcode.may;
 
 import java.util.*;
 import java.util.concurrent.atomic.AtomicInteger;
 import java.util.stream.Collectors;
 import java.util.stream.IntStream;
-import java.util.stream.Stream;
 
 public class KClosest {
     public static void main(String[] args) {
